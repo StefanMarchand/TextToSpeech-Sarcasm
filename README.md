@@ -14,6 +14,7 @@ Packages needed
 	- Pickle      12.1+
 	- pydub       0.12.0+
 	- numpy       1.13.1+
+	- PyAudio     0.2.11
 	
 	Pydub
 		- Can be installed from http://pydub.com/ or using "pip install pydub"  
